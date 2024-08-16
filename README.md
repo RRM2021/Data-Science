@@ -1,3 +1,2 @@
-# bajocauca
-Regional integration in Colombia's Bajo Cauca Region
-Exercise to understand the complexity of this region and make decisions
+# Data science
+Academic Projects in Data Science with IBM
